@@ -19,6 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
+[Index](index.md)
 [PublicPaper](pages/publicpaper.md)
 
 <!-- A more complex navigation example: ----------------------------------------
