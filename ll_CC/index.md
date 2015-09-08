@@ -1,4 +1,4 @@
-# It works! ;-)
+# Janggoons MDWiki
 
 
 ## Section 1
