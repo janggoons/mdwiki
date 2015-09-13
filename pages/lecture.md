@@ -3,21 +3,20 @@
 ## 2015
 * 내동중학교 자유학기제 피지컬컴퓨팅 강사 (2015.08~)
 * 호곡중학교 방과후 SW교실 피지컬컴퓨팅 강사 (2015.05~07)
-* 고려대학교 교육용프로그래밍 언어 이토이 강사 (2015.05.12)
- * [수업소개 및 자료](https://sites.google.com/site/etoysprogramming/etoysclass/2015)
+* 고려대학교 교육용프로그래밍 언어 이토이 강사 (2015.05.12) | [수업소개 및 자료](https://sites.google.com/site/etoysprogramming/etoysclass/2015)
+* [고려대학교 부설 영재교육원](http://gifted.korea.ac.kr/) 강사 (2015.02~11)
+ * 사전수업 스크래치 2.0 | [수업소개 및 자료](https://sites.google.com/site/scratchprogrammingbook/coursemodule/content_1)
+ * 정규수업 초등심화
+ * 선택수업 게임제작 스튜디오 | [수업소개 및 자료](https://sites.google.com/site/scratchprogrammingbook/coursemodule/gamedevemopment)
 
 ## 2013
-* 호곡중학교 방과후 피지컬컴퓨팅 워크숍 강사 (2014.12.06)
- * [수업소개 및 자료](https://sites.google.com/a/janggoons.kr/bambilab/lamp)
-* 호곡중학교 방과후 센서보드 강사 (2014.10~11)
- * [수업소개 및 자료](https://sites.google.com/site/scratchprogrammingbook/scratch1-4/coursemodule/content_1)
-* 사단법인 한국교육개발협회 교육용 프로그래밍 언어 이토이 강사 (2014.04.27)
- * [수업소개 및 자료](https://sites.google.com/site/etoysprogramming/etoysclass/2013_teacheredu)
+* 호곡중학교 방과후 피지컬컴퓨팅 워크숍 강사 (2014.12.06) | [수업소개 및 자료](https://sites.google.com/a/janggoons.kr/bambilab/lamp)
+* 호곡중학교 방과후 센서보드 강사 (2014.10~11) | [수업소개 및 자료](https://sites.google.com/site/scratchprogrammingbook/scratch1-4/coursemodule/content_1)
+* 사단법인 한국교육개발협회 교육용 프로그래밍 언어 이토이 강사 (2014.04.27) | [수업소개 및 자료](https://sites.google.com/site/etoysprogramming/etoysclass/2013_teacheredu)
 
 
 ## 2013
-* 건국대학교 미디어아트시범사업 인터랙티브픽션 강사 (2013.09~11)
- * [수업소개 및 자료](https://sites.google.com/site/etoysprogramming/etoysclass/2013_MediaArt_InteractiveFiction)
+* 건국대학교 미디어아트시범사업 인터랙티브픽션 강사 (2013.09~11) | [수업소개 및 자료](https://sites.google.com/site/etoysprogramming/etoysclass/2013_MediaArt_InteractiveFiction)
 
 ## ~ 2012
 * 춘천교대 컴퓨터 실기, 스퀵 이토이 강사(2010.10)
