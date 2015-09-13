@@ -21,6 +21,7 @@
 
 [Index](index.md)
 [PublicPaper](pages/publicpaper.md)
+[Lecture](pages/lecture.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
